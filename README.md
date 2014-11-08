@@ -5,11 +5,12 @@ Small hardware adapter for ESP8266. Purpose make it 5v compatible and breadboard
 
 Idea is to provide a small board to allow connecting the ESP8266 ver ESP02 to a breadboard. It is kept small so the price is cheap. A small batch was ordered to oshpark and waiting for order to arrive to see if the idea works.
 
-Features:
-Allow input of 5V
-Exposes 3.3V regulated
-Level shifter for RX and TX signals (can be connected directly to Arduino)
-Breadboard friendly pinout
+**Features:**
+- Allow input of 5V
+- Exposes 3.3V regulated
+- Level shifter for RX and TX signals (can be connected directly to Arduino)
+- Breadboard friendly pinout
+- Minu usb connector on the bottom (*for 5v power input only*)
 
 For normal use please solder a wire on resistors R0XXX. This resistors are just exposing the RST and CHPD pins to allow moding the board for firmware updates.
 
