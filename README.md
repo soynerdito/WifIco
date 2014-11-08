@@ -17,6 +17,9 @@ For normal use please solder a wire on resistors R0XXX. This resistors are just 
 Board design or prototype was NOT DONE! Just drawed a few versions on Eagle and order a batch of 3 boards to see what happens.
 Plan is to scatter parts and build one and see what happens.
 
+Blog post about project:
+http://www.element14.com/community/groups/open-source-hardware/blog/2014/11/08/esp8266-interface-board-on-its-way
+
 OSHPark board images
 
 
