@@ -1,4 +1,4 @@
-WifiIco
+WifIco
 =======
 
 Small hardware adapter for ESP8266. Purpose make it 5v compatible and breadboard friendly.
