@@ -15,3 +15,7 @@ For normal use please solder a wire on resistors R0XXX. This resistors are just 
 
 Board design or prototype was NOT DONE! Just drawed a few versions on Eagle and order a batch of 3 boards to see what happens.
 Plan is to scatter parts and build one and see what happens.
+
+OSHPark board images
+![alt tag](https://github.com/soynerdito/WifiIco/raw/master/images/WifiIcoOSHPark_top.png)
+![alt tag](https://github.com/soynerdito/WifiIco/raw/master/images/WifiIcoOSHPark_back.png)
