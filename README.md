@@ -17,5 +17,7 @@ Board design or prototype was NOT DONE! Just drawed a few versions on Eagle and 
 Plan is to scatter parts and build one and see what happens.
 
 OSHPark board images
+
+
 ![alt tag](https://github.com/soynerdito/WifiIco/raw/master/images/WifiIcoOSHPark_top.png)
 ![alt tag](https://github.com/soynerdito/WifiIco/raw/master/images/WifiIcoOSHPark_back.png)
